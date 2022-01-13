@@ -1,0 +1,28 @@
+﻿body {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding: 50px;
+    background-color: #deffff;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    max-width: 40rem;
+    align-self: center;
+}
+
+img {
+    width: 200px;
+}
+
+.form-group label {
+    width: 150px;
+    display: inline-block;
+
+}
+
+.form-group {
+    padding-top: 10px;
+}
